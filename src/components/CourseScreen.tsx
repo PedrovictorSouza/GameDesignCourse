@@ -17,7 +17,7 @@ import {
   SideBySideContainer, 
   ContentColumn, 
   LessonContent, 
-  StartLessonButton 
+  //StartLessonButton 
 } from "./styles/CourseScreen.styles";
 
 

@@ -36,11 +36,11 @@ const StyledTitle = styled.h1`
 `;
 
 // Estilização do slogan (mantendo separação)
-const StyledSlogan = styled.p`
-  font-size: 1em;
-  color: white;
-  margin-top: 10px;
-`;
+// const StyledSlogan = styled.p`
+//   font-size: 1em;
+//   color: white;
+//   margin-top: 10px;
+// `;
 
 interface TitleAnimationProps {
   text: string;
