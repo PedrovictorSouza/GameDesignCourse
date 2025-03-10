@@ -19,7 +19,7 @@ export const Container = styled.div<{ isFadingOut: boolean }>`
   padding: 20px;
   min-height: 100vh;
   width: 100vw;
-  background-image: url('public/assets/Home-bg.png');  // Ajuste o caminho conforme necessário
+  background-image: url('/assets/Home-bg.png');  // Ajuste o caminho conforme necessário
   background-size: cover;       // Preenche a tela sem distorcer
   background-position: center;  // Mantém o foco centralizado
   background-repeat: no-repeat; // Evita repetição da imagem
